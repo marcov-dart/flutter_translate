@@ -9,11 +9,11 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  flutter_localizations:
-    sdk: flutter
   flutter_translate:
     path: ../
 
+  cupertino_ui: any
+  material_ui: any
 flutter:
 
   uses-material-design: true
