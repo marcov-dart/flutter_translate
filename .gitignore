@@ -75,3 +75,6 @@ pubspec.lock
 example_static_keys/lib/generated_plugin_registrant.dart
 example_static_keys/.flutter-plugins-dependencies
 example/lib/generated_plugin_registrant.dart
+
+# Flutter SwiftPM local file locks
+.swift_pm.lock
